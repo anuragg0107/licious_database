@@ -141,6 +141,80 @@
      "discount":"10% OFF",
      "time":"Today 4PM - 6PM"
     }
+  ],
+  "breakfast":[
+    {
+      "id":1,
+       "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/fee95638-21fd-1706-4569-ed42430fd716/original/Sriracha-chicken-spreadsTIle-image.jpg?format=webp" ,
+     "title":"Chunky Sriracha Chicken Spread",
+     "subtitle":"Fresh cooked chicken in a creamy, spicy sriracha base.",
+     "qty":"pieces: 1",
+     "price":229,
+     "time":"Today 4PM - 6PM"
+    },
+      {
+      "id":2,
+       "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/faa6ff18-1108-6acf-4885-aa0fdb5e13ec/original/Chunky-Shawarma-Chicken-Spread_(7).jpg?format=webp" ,
+     "title":"Chunky Shawarma Chicken Spread",
+     "subtitle":"A creamy base with freshly roasted chicken",
+     "qty":"pieces: 1",
+     "price":219,
+     "time":"Today 6PM - 8PM"
+    },
+      {
+     " id":3,
+       "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b7cbafbe-bdf9-39cc-30c0-5a7c432309d8/original/Chunky-Herby-Tomato-Chicken-Spread_(1).jpg?format=webp" ,
+     "title":"Chunky Herby Tomato Chicken Spread",
+     "subtitle":"A pleasant contrast of Meaty chicken ",
+     "qty":"pieces: 1",
+     "price":199,
+     "time":"Today 6PM - 8PM"
+    },
+      {
+      "id":4 ,
+       "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/0d28ad62-9409-c682-3c22-8e0ebc1697d5/original/Chunky-Continental-Chicken-Spread.jpg?format=webp" ,
+     "title":"Chunky Continental Chicken Spread",
+     "subtitle":"A Nakhrebaaz chef's creation",
+     "qty":"pieces: 1",
+     "price":219,
+     "time":"Today 6PM - 9PM"
+    },
+      {
+      "id":5 ,
+       "image":"https://d2407na1z3fc0t.cloudfront.net/prodDev/pr_drokbgb2jhb/1/prod_display_image/1634375004.4382--2021-10-1614:33:24--905?format=webp" ,
+     "title":"Chunky Sriracha Prawn Spread",
+     "subtitle":"A blend of freshly cooked juicy prawns",
+     "qty":"pieces: 1",
+     "price":249,
+     "time":"Today 6PM - 9PM"
+    },
+      {
+      "id":6 ,
+       "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/ad60f59b-612e-11b8-80f4-3308430cc609/original/Peppery-Chicken-Salami_(1).jpg?format=webp" ,
+     "title":"Peppery Chicken Salami",
+     "subtitle":"Our Nakhrebaaz chef's present this creation",
+     "qty":"125gms",
+     "price":199,
+     "time":"Today 6PM - 8PM"
+    },
+      {
+      "id":7,
+       "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/36c60289-829d-830f-d4c7-c62675adb323/original/Frank---Chorizo-unCooked+new.jpg?format=webp" ,
+     "title":"Chicken Chorizo Frankfurter",
+     "subtitle":"Chicken Sausage smoked with chorizo spice mix",
+     "qty":"pieces: 4",
+     "price":299,
+     "time":"Today 6PM - 8PM"
+    },
+      {
+      "id":8 ,
+       "image":"https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/1ce4618e-f9ac-ad01-3ab2-5f9b26ba6a2b/original/Frank---Classic-UNCooked+tag.jpg?format=webp" ,
+     "title":"Classic Smoked Chicken Frankfurter",
+     "subtitle":"Chicken Sausage smoked with fine oakwood",
+     "qty":"pieces: 4",
+     "price":275,
+     "time":"Today 4PM - 6PM"
+    }
   ]
 
 }
